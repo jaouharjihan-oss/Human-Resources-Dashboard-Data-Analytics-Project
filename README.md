@@ -1,7 +1,7 @@
 # Human Resources Dashboard – Data Analytics Project
 
 ## 📌 Project Overview
-![image](https://raw.githubusercontent.com/user/repo/main/hr-summary.jpg)
+
 This project is an interactive **Human Resources Analytics Dashboard** designed to transform raw HR data into meaningful business insights.  
 The dashboard helps HR teams and decision-makers monitor workforce trends, employee demographics, hiring performance, salary distribution, and departmental statistics in a visually efficient way.
 
